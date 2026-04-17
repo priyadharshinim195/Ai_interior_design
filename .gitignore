@@ -1,0 +1,5 @@
+echo .env >> .gitignore
+echo __pycache__ >> .gitignore
+echo *.pyc >> .gitignore
+echo backend/uploads >> .gitignore
+echo node_modules >> .gitignore

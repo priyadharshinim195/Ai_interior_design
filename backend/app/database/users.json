@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Priyadharshini M",
+    "email": "priya123@gmail.com",
+    "password_hash": "dd69d1335e0cafd0630850cbc5da3d7261167b370ff95b0a77989bd056f6e686"
+  },
+  {
+    "name": "Priyadharshini M",
+    "email": "priyam123@gmail.com",
+    "password_hash": "3dc67d477d01a2805706644e631979b65b919b81c758fd06ba31338d6e9ff56a"
+  },
+  {
+    "name": "priya",
+    "email": "priya@gmail.com",
+    "password_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5"
+  },
+  {
+    "name": "riya",
+    "email": "riya@gmail.com",
+    "password_hash": "bc97aaa7b5bde4bae9d3b658e6d4bf711b2d8bb5d7a27f17e95815efc6e0618d"
+  }
+]
